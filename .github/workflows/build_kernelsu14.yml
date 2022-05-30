@@ -1,4 +1,4 @@
-name: WSA Kernel Build (Superuser)
+name: WSA Kernel Build (Superuser) LLVM 14
 
 on:
   workflow_dispatch:
