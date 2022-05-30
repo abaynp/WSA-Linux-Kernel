@@ -1,4 +1,4 @@
-name: WSA Kernel Build
+name: WSA Kernel Build LLVM 14
 
 on:
   workflow_dispatch:
